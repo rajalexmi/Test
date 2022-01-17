@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7dd3363-3c22-4a50-82e0-a27f3f8d6ffb": {
+      "ProjectGuid": "a7dd3363-3c22-4a50-82e0-a27f3f8d6ffb",
+      "DisplayName": "SpecflowNunit",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
